@@ -3,7 +3,7 @@
 //  stopwatchassignment
 //
 //  Created by Kunal Dandona on 2019-01-19.
-//  Copyright © 2019 Kunal Dandona. All rights reserved.
+//  Copyright © 2019- Kunal Dandona. All rights reserved.
 //
 
 import Foundation
